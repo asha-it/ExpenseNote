@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expense Note</string>
+    <string name="taxt_title">กรอกรายละเอียดค่าใช้จ่าย</string>
+    <string name="revenue">+</string>
+    <string name="expend">-</string>
+    <string name="text_warning">*ถ้าเป็นรายจ่าย กรุณาใส่เครื่องหมาย( - ) หน้าจำนวนเงิน</string>
+</resources>
